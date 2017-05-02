@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 
-<widgetxmlns = "http://www.w3.org/ns/widgets"
-   xmlns:gab = "http://phonegab.com/ns/1.0"
+<widget xmlns = "http://www.w3.org/ns/widgets"
+   xmlns:gap = "http://phonegab.com/ns/1.0"
    id = "com.phoengab.example5"
    version = "1.0.0"
    
@@ -11,7 +11,7 @@
    	Aplicacion que realiza la vibracion y beep del dispositivo
 	</description>
 	
-	<author href="https:build.phohegab.com" email="bereniceaurora210@gmail.com">
+	<author href="https:build.phohegap.com" email="bereniceaurora210@gmail.com">
 	Aurora Berenice Gonzalez Aguilar
 	</author>
 	
