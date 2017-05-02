@@ -11,7 +11,7 @@
    	Aplicacion que realiza la vibracion y beep del dispositivo
 	</description>
 	
-	<author href="https:build.phohegab.com" email="bereniceaurora210@gmaol.com">
+	<author href="https:build.phohegab.com" email="bereniceaurora210@gmail.com">
 	Aurora Berenice Gonzalez Aguilar
 	</author>
 	
@@ -35,6 +35,6 @@
 	 
 	 <!--Colocar icono app-->
 	 
-	 <icon src="res/android/mdpi.png">
+	 <icon src="res/android/mdpi.png"/>
 	 
 	 </widget>
