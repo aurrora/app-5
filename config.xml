@@ -2,7 +2,7 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
    xmlns:gap = "http://phonegab.com/ns/1.0"
-   id = "com.phoengab.example5"
+   id = "com.phonegap.example5"
    version = "1.0.0"
    
    <name> app5 Advertencias del Dispositivo </name>
